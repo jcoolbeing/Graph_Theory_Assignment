@@ -12,3 +12,7 @@ How do you run it?
 3.  enter "cd" (change directory) to the cloned folder from github
 4.  enter jupyter notebook into your terminal and then wait for a browser to pop up
 5.  then you should be able to select the notebooks displayed in the web browser
+
+Troubleshoot:
+If the images wont load please click on the play button on the top task bar while cell is selected
+that should reload images.
